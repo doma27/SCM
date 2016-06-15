@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossary version="1.0">
+	<glossentry>
+		<glossterm>Flange-to-flange thickness</glossterm>
+		<glossdef>The distance between the flanges of the inner and outer face gap sensors.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Full-length rolls</glossterm>
+		<glossdef>Where there is only one roll across the caster width.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Gap sensor</glossterm>
+		<glossdef>Sensors that are used to measure the roll gaps, and outer roll condition</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Inclinometer</glossterm>
+		<glossdef>Devices that measure angles relative to the horizontal</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Inner face</glossterm>
+		<glossdef>The face of the SCM that is in contact with the Inner Face Rolls, may also be referred to as the loose or adjustable face.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Inner rolls</glossterm>
+		<glossdef>Identified as the rolls in the caster whose radius is less than that of the Outer face rolls (or “loose side”).</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Left</glossterm>
+		<glossdef>Left when viewed from the mould in the casting direction.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Outer face</glossterm>
+		<glossdef>The face of the SCM that is in contact with the Outer Face Rolls, may also be referred to as fixed or back face.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Outer rolls</glossterm>
+		<glossdef>Identified as the rolls in the caster whose radius is greater than that of the Inner face rolls (or “fixed side”).</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>PCB</glossterm>
+		<glossdef>Printed Circuit Board</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Profile thickness</glossterm>
+		<glossdef>The thickness of the SCM body.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Right</glossterm>
+		<glossdef>Right when viewed from the mould in the casting direction.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Roll rotation sensor</glossterm>
+		<glossdef>Sensors that detect how freely the rolls in the caster are rotating</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>SBC</glossterm>
+		<glossdef>Single-board computer</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Slab thickness</glossterm>
+		<glossdef>The nominal thickness of steel being cast.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Split rolls</glossterm>
+		<glossdef>Where there are two (or more) rolls across the width of the caster at each roll position.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Water spray sensor</glossterm>
+		<glossdef>Sensors that are used to measure the condition of the water spray system - the sensor output being proportional to the amount and velocity of water being sprayed onto the detection membrane</glossdef>
+	</glossentry>
+</glossary>

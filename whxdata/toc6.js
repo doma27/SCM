@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc5.js\"  name=\"System Overview\" url=\"SCM_Master/SCMMASTERManual-English2_0._RH/System_Overview.htm\"><item name=\"How the SCM Data Logger Receives Sensor Information\" url=\"SCM_Master/SCMMASTERManual-English2_0._RH/How_the_SCM_Data_Logger_Receives_Sensor_Information.htm\" /></data>";

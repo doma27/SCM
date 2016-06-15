@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="OriginalFile" content="SCMMASTERManual-English2_3._RH.docx" />
+ <meta name="generator" content="Adobe RoboHelp 2015" />
+<title>Roll Rotation - Optional</title>
+<link rel="stylesheet" href="SCMMASTERManual-English2_3._RH.css" type="text/css" />
+<link rel="stylesheet" href="../../CCAR.css" type="text/css" />
+ <link rel="StyleSheet" href="../../CCAR.css" type="text/css" />
+<style type="text/css">
+<!--
+A:visited { color:#0000ff; }
+A:link { color:#000080; }
+-->
+</style>
+<script type="text/javascript" language="JavaScript">
+//<![CDATA[
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+onerror = null; 
+//]]>
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute;
+left:0px;
+top:0px;
+z-index:4;
+visibility:hidden; }
+p.WebHelpNavBar { text-align:right; }
+-->
+</style>
+
+<script type="text/javascript" src="../../template/scripts/rh.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/common.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/topic.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/constants.js"></script>
+<script type="text/javascript" src="../../template/scripts/utils.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhutils.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhlang.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhver.js"></script>
+<script type="text/javascript" src="../../template/scripts/settings.js"></script>
+<script type="text/javascript" src="../../template/scripts/XmlJsReader.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadparentdata.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadscreen.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadprojdata.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhtopic.js"></script>
+ <link rel="stylesheet" type="text/css" href="../../template/styles/topic.min.css">
+<script type="text/javascript" >
+gRootRelPath = "../..";
+gCommonRootRelPath = "../..";
+gTopicId = "5.1_1";
+</script>
+ <meta name="topic-breadcrumbs" content="5. PRINCIPLES OF MEASUREMENT" />
+</head>
+<body>
+<script type="text/javascript" src="../../ehlpdhtm.js"></script>
+
+
+<p class="WD_Heading2">Roll Rotation&#160;- Optional</p>
+<p class="WD_Normal">The roll rotation measurement system is based on the principle that a sensor wheel in contact with a caster roll will rotate by an amount depending on the differential speed of the contacting surfaces. The rotation is measured using a proximity sensor to count metallic sections around the sensor wheel circumference.</p>
+<p class="WD_Normal">The SCM&#160;is pulled through the caster at a constant speed and therefore the sensor wheel surface speed is also at this speed.</p>
+<p class="WD_Normal"><img src="image298.png" alt="100-35A" border="0" style="width:100%; max-width:371px" /></p>
+<p class="WD_Caption"><a name="Figure_16_Method_for" id="Figure_16_Method_for">Figure</a> 16: Method for taking roll rotation measurements</p>
+<p class="WD_Normal">If the caster roll is freely rotating, it will turn at the same speed as the SCM&#160;is travelling, so the difference in surface speeds is zero and therefore no appreciable wheel rotation will occur.</p>
+<p class="WD_Normal">If the caster roll is not free to rotate, its surface speed will be zero causing a differential speed between the SCM surface speed and the caster roll speed. This will cause the <a href="javascript:TextPopup(this)" id="HotSpot33430" class="glossterm">roll rotation sensor</a><script type="text/javascript">//<![CDATA[
+TextPopupInit('HotSpot33430', 'POPUP33430');
+//]]></script><span class="glosstext" id="POPUP33430" style="display: none;"> Sensors that detect how freely the rolls in the caster are rotating</span> wheel to rotate.</p>
+<p class="WD_Normal">The sensor wheel has holes cut into its <a href="javascript:TextPopup(this)" id="HotSpot39152" class="glossterm">outer face</a><script type="text/javascript">//<![CDATA[
+TextPopupInit('HotSpot39152', 'POPUP39152');
+//]]></script><span class="glosstext" id="POPUP39152" style="display: none;"> The face of the SCM that is in contact with the Outer Face Rolls, may also be referred to as fixed or back face.</span> and when these rotate past the proximity switch, electrical pulses of 1s and 0s are generated.</p>
+<p class="WD_Normal">The on-board computer counts these pulses and the total number of pulses is stored after the wheel loses contact with the roll being measured. The pulse edge count is compared to the theoretical maximum pulse count for a given roll diameter and is represented by a graph displayed ranging from 0% when free to 100% when the roll is not rotating under the SCM&#160;conditions.</p>
+<p class="WD_Normal" style="margin-bottom: .0001pt;">&#160;</p>
+<p class="WD_Normal">For a given roll, if the maximum number of pulses for a seized roll is 30 pulses:</p>
+<p class="WD_Normal">If the SCM&#160;only counts 20 pulses</p>
+<p class="WD_Normal">Then</p>
+<p class="WD_ListContinue2">(20/30)* 100/1 = 66.66</p>
+<p class="WD_Normal">The result displayed would be 67%</p>
+<p class="WD_Normal"><img src="image300.jpg" alt="" border="0" style="width:100%; max-width:522px" /></p>
+<p class="WD_Caption"><a name="Figure_17_Calculating" id="Figure_17_Calculating">Figure</a> 17: Calculating the percentage of roll rotation</p>
+<span style="font-size: 10.0pt; font-family: Verdana, sans-serif;"><br style="clear: all;" /></span>
+<p class="WD_Normal">&#160;</p>
+</body>
+</html>

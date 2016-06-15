@@ -1,0 +1,783 @@
+﻿<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="FrameName" value="bsscright">
+  <param name="SiteType" value="toc">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="1. INTRODUCTION">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/1_INTRODUCTION1.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Caster Parameters Measured by SCM Sensors">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Caster_Parameters_Measured_by_SCM_Sensors.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Manual Conventions">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Manual_Conventions.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Terminology">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Terminology.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="System Components Description">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/System_Components_Description.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="SCM Mechanical Arrangement">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/SCM_Mechanical_Arrangement.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Equipment Internal to the SCM Body">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Equipment_Internal_to_the_SCM_Body.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Sensors">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Sensors.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Inclinometers">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Inclinometers.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Roll Rotation Sensors - optional">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Rotation_Sensors_-_optional.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Water Spray Sensors - optional">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Water_Spray_Sensors_-_optional.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Operator Interface Unit">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Operator_Interface_Unit.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Electronic Enclosures">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Electronic_Enclosures.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Batteries">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Batteries.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Hydraulic System – Only applicable for top feed SCMs">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Hydraulic_System_–_Only_applicable_for_top_feed_SCMs.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Equipment External to the SCM">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Equipment_External_to_the_SCM.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Battery Charger">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Battery_Charger.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Calibration Equipment">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Calibration_Equipment.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Infrared Remote Control">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Infrared_Remote_Control.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Laptop Computer">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Laptop_Computer.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mobile Hydraulic Power Unit – Only applicable for top feed SCMs">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Mobile_Hydraulic_Power_Unit_–_Only_applicable_for_top_feed_SCMs.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Cables">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Cables.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="2. SCM ELECTRICAL OPERATION">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/2_SCM_ELECTRICAL_OPERATION.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="System Overview">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/System_Overview.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="How the SCM Data Logger Receives Sensor Information">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/How_the_SCM_Data_Logger_Receives_Sensor_Information.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="The Operator Interface">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/The_Operator_Interface.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="SCM Start-Up Menu and Test Modes">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/SCM_Start-Up_Menu_and_Test_Modes.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="SCM Menu Structure">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/SCM_Menu_Structure.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Check Option">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Check_Option.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap &amp; Inclinometer Diagnostic Test Option">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Inclinometer_Diagnostic_Test_Option.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="GAP - Individual Gap Transducer Test Option">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/GAP_-_Individual_Gap_Transducer_Test_Option.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="INC - Individual Inclinometer Transducer Test Option">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/INC_-_Individual_Inclinometer_Transducer_Test_Option.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WATER - Individual Water Transducer Test Option">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/WATER_-_Individual_Water_Transducer_Test_Option.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ROLL - Individual Roll Transducer Test Option">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/ROLL_-_Individual_Roll_Transducer_Test_Option.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="ABOUT - Menu Option">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/ABOUT_-_Menu_Option.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="BATT - Battery Voltage Display">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/BATT_-_Battery_Voltage_Display.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PC OPERATION INSTRUCTIONS AND DISPLAYS">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/PC_OPERATION_INSTRUCTIONS_AND_DISPLAYS.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="PC Software Top Level Window">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/PC_Software_Top_Level_Window.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Loading a Measurement">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Loading_a_Measurement.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="View Measurement Data">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/View_Measurement_Data.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Available Measurements">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Available_Measurements.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Print Selection Button">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Print_Selection_Button.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Threshold Adjustment Button">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Threshold_Adjustment_Button.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Over Threshold Summary Button">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Over_Threshold_Summary_Button.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Description of Result Displays">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Description_of_Result_Displays.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Roll Gap Display Options">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Gap_Display_Options.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Roll Layout Display">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Roll_Layout_Display.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Threshold Summary">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Threshold_Summary.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Results Table">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Results_Table.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Graph">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Graph.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Error Graph">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Error_Graph.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Measurement Comparison">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Measurement_Comparison.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Error Measurement Comparison">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Error_Measurement_Comparison.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Outer Roll Condition Roll Layout Screen">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Outer_Roll_Condition_Roll_Layout_Screen.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Roll Bend Layout Screen - Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Bend_Layout_Screen_-_Optional.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Roll Alignment Screen">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Alignment_Screen.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Roll Alignment Angular Error Graph">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Alignment_Angular_Error_Graph.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Roll Alignment Step Error Graph">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Alignment_Step_Error_Graph.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Roll Rotation Roll Layout Screen – Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Rotation_Roll_Layout_Screen_–_Optional.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Water Spray Screen - Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Water_Spray_Screen_-_Optional.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Water Spray Threshold Summary Screen">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Water_Spray_Threshold_Summary_Screen.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Battery Status Graph">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Battery_Status_Graph.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Temperature Graph">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Temperature_Graph.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Maintenance Menu">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Maintenance_Menu.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Setup of Client PCs for Viewing Data through a Network">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Setup_of_Client_PCs_for_Viewing_Data_through_a_Network.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Configuration of the Server PC">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Configuration_of_the_Server_PC.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="3. DETAILED CASTER MEASUREMENT SEQUENCE">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/3_DETAILED_CASTER_MEASUREMENT_SEQUENCE.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Procedure for a Caster Measurement">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Procedure_for_a_Caster_Measurement.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Hydraulic Anvil Operation">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Hydraulic_Anvil_Operation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Starting Caster Measurement">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Starting_Caster_Measurement.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Transfer of Data from SCM to Laptop">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Transfer_of_Data_from_SCM_to_Laptop.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Data Transfer">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Data_Transfer.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Wireless Data Transfer and Calibration (Wi-Fi) – Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Wireless_Data_Transfer_and_Calibration_Wi-Fi_–_Optional.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="WIFI Hardware">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/WIFI_Hardware.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="4. INTERPRETATION OF MEASUREMENT RESULTS">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/4_INTERPRETATION_OF_MEASUREMENT_RESULTS.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Gap Error Display Results">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Error_Display_Results.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Outer Roll Condition Results">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Outer_Roll_Condition_Results.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Roll Bend Results - Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Bend_Results_-_Optional.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Outer Roll Alignment Results">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Outer_Roll_Alignment_Results.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Single Roll Out Of Position">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Single_Roll_Out_Of_Position.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Caster Segment Step Misalignment">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Caster_Segment_Step_Misalignment.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Results Due To Single Roll Problems">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Results_Due_To_Single_Roll_Problems.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Compound Errors">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Compound_Errors.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Outer Roll Adjustment Recommendations">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Outer_Roll_Adjustment_Recommendations.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Roll Rotation Results - Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Rotation_Results_-_Optional.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Battery Voltage Graph">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Battery_Voltage_Graph.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="SCM Temperature Graph">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/SCM_Temperature_Graph.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="5. PRINCIPLES OF MEASUREMENT">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/5_PRINCIPLES_OF_MEASUREMENT.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Roll Gap">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Gap.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Outer Roll Condition">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Outer_Roll_Condition.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Roll Bend - Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Bend_-_Optional.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Outer Roll Alignment">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Outer_Roll_Alignment.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Step Error Calculation">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Step_Error_Calculation.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Roll Rotation - Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Rotation_-_Optional.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Water Spray - Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Water_Spray_-_Optional.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="6. CALIBRATION">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/6_CALIBRATION.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Gap Sensor Calibration">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Sensor_Calibration.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Sensor Calibration Equipment">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Sensor_Calibration_Equipment.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Sensor Calibration Procedure">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Sensor_Calibration_Procedure.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Flange-To-Flange Thickness Measurement Procedure">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Flange-To-Flange_Thickness_Measurement_Procedure.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Equipment">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Equipment.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Preparing the Digital Depth Gauge (DDG)">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Preparing_the_Digital_Depth_Gauge_DDG.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Measurement Procedure">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Measurement_Procedure.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Outer Face Datum Input">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Outer_Face_Datum_Input.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Sensor Pair Live Readings">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Sensor_Pair_Live_Readings.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Overview.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Inclinometer Calibration">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Inclinometer_Calibration.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Overview1.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Equipment">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Equipment1.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Setting up the Rotary Table">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Setting_up_the_Rotary_Table.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Digital Spirit Level Display Panel and Controls and Calibration">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Digital_Spirit_Level_Display_Panel_and_Controls_and_Calibration.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Blade-mounted inclinometers">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Blade-mounted_inclinometers.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Body-mounted inclinometer">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Body-mounted_inclinometer.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Calibration">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Calibration.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Partial Calibration">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Partial_Calibration.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="7. SERVICE AND MAINTENANCE">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/7_SERVICE_AND_MAINTENANCE.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Maintenance Schedule">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Maintenance_Schedule.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Weekly Maintenance">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Weekly_Maintenance.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Monthly Maintenance">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Monthly_Maintenance.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Three Monthly Maintenance">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Three_Monthly_Maintenance.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Lifting Lugs">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Lifting_Lugs.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Gap Sensors">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Sensors1.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Measuring Head Maintenance">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Measuring_Head_Maintenance.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Sensor Mechanical Maintenance">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Sensor_Mechanical_Maintenance.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap Sensor Replacement">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Gap_Sensor_Replacement.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Inclinometers">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Inclinometers1.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Inclinometer Blade Assembly Maintenance">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Inclinometer_Blade_Assembly_Maintenance.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Inclinometer Sensor Replacement">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Inclinometer_Sensor_Replacement.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Roll Rotation Sensors">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Rotation_Sensors.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Roll Rotation Sensor Maintenance">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Rotation_Sensor_Maintenance.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Roll Rotation Sensor Replacement">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Rotation_Sensor_Replacement.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Articulated Spring Anvil Maintenance">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Articulated_Spring_Anvil_Maintenance.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Removal of the Spring Anvils Assemblies">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Removal_of_the_Spring_Anvils_Assemblies.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Replacement of the Spring Anvils">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Replacement_of_the_Spring_Anvils.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Changing SCM Thickness - Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Changing_SCM_Thickness_-_Optional.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Hydraulic System Maintenance - Optional">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Hydraulic_System_Maintenance_-_Optional.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Routine Hydraulic System Checks">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Routine_Hydraulic_System_Checks.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Bleeding the Hydraulic System">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Bleeding_the_Hydraulic_System.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Trolley Mounted Hydraulic Power Unit (HPU)">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Trolley_Mounted_Hydraulic_Power_Unit_HPU.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="HPU Inspection and Servicing">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/HPU_Inspection_and_Servicing.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="8. SYSTEM ELECTRONICS">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/8_SYSTEM_ELECTRONICS.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Hardware Used">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Hardware_Used.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Data Logger Enclosure">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Data_Logger_Enclosure.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="64-Channel Data Logger Printed Circuit Board (PCB)">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64-Channel_Data_Logger_Printed_Circuit_Board_PCB.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Remote DC-DC Converter Card">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Remote_DC-DC_Converter_Card.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Distribution Blocks">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Distribution_Blocks.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Jumper Cables">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Jumper_Cables.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Batteries">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Batteries1.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Battery Charging and Communications Connection">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Battery_Charging_and_Communications_Connection.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Battery Charging">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Battery_Charging.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Battery – Replacement">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Battery_–_Replacement.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Interface Units">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Interface_Units.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Remote Control (Infrared Transmitter)">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Remote_Control_Infrared_Transmitter.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Remote Control - Battery Changing">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Remote_Control_-_Battery_Changing.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Changing the SCM Software – SDHC Memory Card">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Changing_the_SCM_Software_–_SDHC_Memory_Card.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="9. TESTING AND FAULT FINDING">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/9_TESTING_AND_FAULT_FINDING.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Power Related Problems">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Power_Related_Problems.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Other Hardware Problems">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Other_Hardware_Problems.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Software Problems">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Software_Problems.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Using the Operator Interface for Fault-finding">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Using_the_Operator_Interface_for_Fault-finding.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Results are Unacceptable">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Results_are_Unacceptable.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Trace Viewer">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Trace_Viewer.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Making a Dummy Measurement">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Making_a_Dummy_Measurement.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Sensor trace examples">
+        <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Sensor_trace_examples.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="10. APPENDIX">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/10_APPENDIX.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="64ch Single Board Computer - Fuse Table">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_-_Fuse_Table.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="64ch Single Board Computer - Termination Headers">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_-_Termination_Headers.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="64ch Single Board Computer – Test Point Table">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_–_Test_Point_Table.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="64ch Single Board Computer - LED Table">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_-_LED_Table.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Torque Settings">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Torque_Settings.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Data Transfer Cable, 109">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Data_Transfer_Cable_109-29.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Battery Charging and Communication Cable, 103">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Battery_Charging_and_Communication_Cable_103-176.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Battery Charger and Communications Interface, 106">
+      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Battery_Charger_and_Communications_Interface_106-22.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="11. Table of Figures">
+    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/11_Table_of_Figures.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Calibration Training">
+    <param name="Local" value="Calibration_Training_Version_12.pdf">
+  </object>
+</ul>
+</html>

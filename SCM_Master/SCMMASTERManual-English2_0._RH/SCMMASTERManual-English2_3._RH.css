@@ -1,0 +1,2437 @@
+﻿
+A.expandspot {	color: #008000;	cursor: hand;	font-style: italic;	text-decoration: none;}
+
+SPAN.expandtext {	font-style: italic;	font-weight: normal;	color: #ff0000;}
+
+A.dropspot {  cursor: hand;	color: #008000;	font-style: italic;	text-decoration: none;}
+
+A.glossterm {	color: #800000;	cursor: hand;	font-style: italic;	text-decoration: none;}
+
+SPAN.glosstext {	font-style: italic;	font-weight: normal;	color: #0000ff;}
+argin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:13.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+p.WD_Heading3 {
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+	text-decoration:underline;
+	text-underline:single;
+}
+
+p.WD_Heading4 {
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+p.WD_Heading5 {
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:14.2pt;
+	font-size:9.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+	font-style:italic;
+}
+
+p.WD_Heading6 {
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:57.6pt;
+	text-indent:-57.6pt;
+	font-size:10.0pt;
+	font-family:"Cambria"   ,serif;
+	color:#243F60;
+	font-weight:normal;
+	font-style:italic;
+}
+
+p.WD_Heading7 {
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:64.8pt;
+	text-indent:-64.8pt;
+	font-size:10.0pt;
+	font-family:"Cambria"   ,serif;
+	color:#404040;
+	font-style:italic;
+}
+
+p.WD_Heading8 {
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:72.0pt;
+	text-indent:-72.0pt;
+	font-size:10.0pt;
+	font-family:"Cambria"   ,serif;
+	color:#404040;
+}
+
+p.WD_Heading9 {
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:79.2pt;
+	text-indent:-79.2pt;
+	font-size:10.0pt;
+	font-family:"Cambria"   ,serif;
+	color:#404040;
+	font-style:italic;
+}
+
+p.WD_Index1 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:10.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-10.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Index2 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:20.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-10.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Index3 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:30.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-10.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Index4 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:40.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-10.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Index5 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:50.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-10.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Index6 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:60.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-10.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Index7 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:70.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-10.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Index8 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:80.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-10.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Index9 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:90.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-10.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Toc1 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Toc2 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:12.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Toc3 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:20.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Toc4 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:33.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Toc5 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:44.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Toc6 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:55.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Toc7 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:66.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Toc8 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:77.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Toc9 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:88.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_NormalIndent {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:36.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_FootnoteText {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:9.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_CommentText {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:9.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Header {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Footer {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_IndexHeading {
+	margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:14.2pt;
+	border:none;
+	padding:0cm;
+	font-size:13.0pt;
+	font-family:"Calibri"   ,sans-serif;
+	font-weight:bold;
+	font-style:italic;
+}
+
+p.WD_Caption {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+p.WD_Tof {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_EnvelopeAddress {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:144.0pt;
+	font-size:12.0pt;
+	font-family:"Cambria"   ,serif;
+}
+
+p.WD_EnvelopeReturn {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Cambria"   ,serif;
+}
+
+span.WD_FootnoteReference {
+	position:relative;
+	top:-3.0pt;
+}
+
+span.WD_EndnoteReference {
+	vertical-align:super;
+}
+
+p.WD_EndnoteText {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Toa {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:10.0pt;
+	text-indent:-10.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_MacroText {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:14.2pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:10.0pt;
+	font-family:Consolas;
+}
+
+p.WD_ToaHeading {
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:12.0pt;
+	font-family:"Cambria"   ,serif;
+	font-weight:bold;
+}
+
+p.WD_List {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:39.25pt;
+	text-align:justify;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"ITC Officina Sans Book"   ,serif;
+}
+
+p.WD_ListBullet {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumberCxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:18.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumberCxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:18.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumberCxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List2 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:28.3pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List2CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:28.3pt;
+	margin-bottom:.0001pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List2CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:28.3pt;
+	margin-bottom:.0001pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List2CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:28.3pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List3 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:42.45pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List3CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:42.45pt;
+	margin-bottom:.0001pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List3CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:42.45pt;
+	margin-bottom:.0001pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List3CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:42.45pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List4 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:56.6pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List4CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:56.6pt;
+	margin-bottom:.0001pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List4CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:56.6pt;
+	margin-bottom:.0001pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List4CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:56.6pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List5 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:70.75pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List5CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:70.75pt;
+	margin-bottom:.0001pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List5CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:70.75pt;
+	margin-bottom:.0001pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_List5CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:70.75pt;
+	text-indent:-14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet2 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:32.15pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet2CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:32.15pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet2CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:32.15pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet2CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:32.15pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet3 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:46.3pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet3CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:46.3pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet3CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:46.3pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet3CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:46.3pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet4 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:60.45pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet4CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:60.45pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet4CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:60.45pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet4CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:60.45pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet5 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:74.6pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet5CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:74.6pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet5CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:74.6pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListBullet5CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:74.6pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber2 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:32.15pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber2CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:32.15pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber2CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:32.15pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber2CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:32.15pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber3 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:46.3pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber3CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:46.3pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber3CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:46.3pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber3CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:46.3pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber4 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:60.45pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber4CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:60.45pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber4CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:60.45pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber4CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:60.45pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber5 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:74.6pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber5CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:74.6pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber5CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:74.6pt;
+	margin-bottom:.0001pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListNumber5CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:74.6pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Title {
+	margin-top:22.0pt;
+	margin-right:0cm;
+	margin-bottom:11.0pt;
+	margin-left:11.35pt;
+	line-height:22.0pt;
+	text-autospace:none;
+	border:none;
+	padding:0cm;
+	font-size:18.0pt;
+	font-family:"Arial"   ,sans-serif;
+	color:black;
+	font-weight:bold;
+}
+
+p.WD_Closing {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:212.6pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Signature {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:212.6pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_BodyText {
+	margin:0cm;
+	margin-bottom:.0001pt;
+	line-height:12.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_BodyTextIndent {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:70.9pt;
+	font-size:11.5pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinueCxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:14.15pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinueCxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:14.15pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinueCxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue2 {
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:1.0cm;
+	line-height:12.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue3 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:42.45pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue3CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:42.45pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue3CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:42.45pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue3CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:42.45pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue4 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:56.6pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue4CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:56.6pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue4CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:56.6pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue4CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:56.6pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue5 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:70.75pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue5CxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:70.75pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue5CxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:70.75pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListContinue5CxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:70.75pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_MessageHeader {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:2.0cm;
+	text-indent:-2.0cm;
+	background:#CCCCCC;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Cambria"   ,serif;
+}
+
+p.WD_SubtitleGlossaryterm {
+	margin:0cm;
+	margin-bottom:.0001pt;
+	line-height:10.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Salutation {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Date {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_BodyTextFirstIndent {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	text-indent:18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_BodyTextFirstIndent2 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:18.0pt;
+	text-indent:18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_NoteHeading {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_BodyText2 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	line-height:200%;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_BodyText3 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:8.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_BodyTextIndent2 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	text-indent:-18.0pt;
+	font-size:10.5pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_BodyTextIndent3 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:36.0pt;
+	text-align:center;
+	font-size:11.5pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+p.WD_BlockText {
+	margin-top:0cm;
+	margin-right:57.6pt;
+	margin-bottom:6.0pt;
+	margin-left:57.6pt;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Calibri"   ,sans-serif;
+	color:#4F81BD;
+	font-style:italic;
+}
+
+span.WD_Hyperlink {
+	color:navy;
+	text-decoration:underline;
+	text-underline:single;
+}
+
+span.WD_HyperlinkFollowed {
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;
+}
+
+p.WD_DocumentMap {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:8.0pt;
+	font-family:"Tahoma"   ,sans-serif;
+}
+
+p.WD_PlainText {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.5pt;
+	font-family:Consolas;
+}
+
+p.WD_AutoSig {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_CommentSubject {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:9.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+p.WD_Acetate {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:8.0pt;
+	font-family:"Tahoma"   ,sans-serif;
+}
+
+span.WD_PlaceholderText {
+	color:gray;
+}
+
+p.WD_NoSpacing {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:14.2pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_RMPane {
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman"   ,serif;
+}
+
+p.WD_ListParagraph {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListParagraphCxSpFirst {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListParagraphCxSpMiddle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListParagraphCxSpLast {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Quote {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	color:black;
+	font-style:italic;
+}
+
+p.WD_IntenseQuote {
+	margin-top:10.0pt;
+	margin-right:46.8pt;
+	margin-bottom:14.0pt;
+	margin-left:46.8pt;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;
+}
+
+span.WD_SubtleEmphasisGlossaryDefinitiion {
+	font-family:"Verdana"   ,sans-serif;
+	color:windowtext;
+	font-style:normal;
+}
+
+span.WD_IntenseEmphasis {
+	color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;
+}
+
+span.WD_SubtleReference {
+	font-variant:small-caps;
+	color:#C0504D;
+	text-decoration:underline;
+	text-underline:single;
+}
+
+span.WD_IntenseReference {
+	font-variant:small-caps;
+	color:#C0504D;
+	letter-spacing:.25pt;
+	font-weight:bold;
+	text-decoration:underline;
+	text-underline:single;
+}
+
+span.WD_BookTitle {
+	font-variant:small-caps;
+	letter-spacing:.25pt;
+	font-weight:bold;
+}
+
+p.WD_Bibliography {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_TocHeading {
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:14.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	color:red;
+}
+
+span.WD_Heading1 {
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+span.WD_Heading2 {
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+span.WD_Heading3 {
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+	text-decoration:underline;
+	text-underline:single;
+}
+
+span.WD_Heading4 {
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+	font-family:"Arial"   ,sans-serif;
+}
+
+span.WD_Heading5 {
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+	font-style:italic;
+}
+
+span.WD_Heading6 {
+	font-family:"Cambria"   ,serif;
+	color:#243F60;
+	font-style:italic;
+}
+
+span.WD_Heading7 {
+	font-family:"Cambria"   ,serif;
+	color:#404040;
+	font-style:italic;
+}
+
+span.WD_Heading8 {
+	font-family:"Cambria"   ,serif;
+	color:#404040;
+}
+
+span.WD_Heading9 {
+	font-family:"Cambria"   ,serif;
+	color:#404040;
+	font-style:italic;
+}
+
+p.WD_Information {
+	margin-top:0cm;
+	margin-right:1.0cm;
+	margin-bottom:6.0pt;
+	margin-left:51.05pt;
+	text-indent:-22.7pt;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_Header {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_BodyTextIndent {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Warning {
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:12.0pt;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_NumberedList {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_LCDStyle {
+	margin-top:0cm;
+	margin-right:4.0cm;
+	margin-bottom:6.0pt;
+	margin-left:4.0cm;
+	text-align:center;
+	background:black;
+	font-size:22.0pt;
+	font-family:"SCMLCD"   ,serif;
+	color:white;
+}
+
+span.WD_Footer {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ListLetter {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_BodyTextIndent3 {
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+span.WD_Title {
+	font-family:"Arial"   ,sans-serif;
+	color:black;
+	font-weight:bold;
+}
+
+span.WD_BodyTextIndent2 {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_TOCField {
+	margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	line-height:115%;
+	font-size:12.0pt;
+	font-family:"Arial"   ,sans-serif;
+	font-weight:bold;
+}
+
+span.WD_BodyText {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ParagraphChar {
+	margin-top:3.6pt;
+	margin-right:0cm;
+	margin-bottom:3.6pt;
+	margin-left:14.2pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_BalloonText {
+	font-family:"Tahoma"   ,sans-serif;
+}
+
+p.WD_TableText {
+	margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:14.2pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Gill Sans Light"   ,serif;
+	color:black;
+}
+
+p.WD_StyleCaptionCentered {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_BodyText2 {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_FootnoteText {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_CommentText {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_CommentSubject {
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+span.WD_BodyText3 {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_GraphicsText {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	text-align:justify;
+	line-height:120%;
+	font-size:10.5pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_GraphicsText {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_TOCField1 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:11.0pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:10.0pt;
+	font-family:"Times New Roman"   ,serif;
+	font-variant:small-caps;
+}
+
+p.WD_TOCField2 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	line-height:115%;
+	font-size:12.0pt;
+	font-family:"Times New Roman"   ,serif;
+}
+
+p.WD_TOCField3 {
+	margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:150%;
+	font-size:12.0pt;
+	font-family:"Times New Roman"   ,serif;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+p.WD_TOCField4 {
+	margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:150%;
+	font-size:12.0pt;
+	font-family:"Times New Roman"   ,serif;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+p.WD_MenuItem {
+	margin-right:0cm;
+	margin-left:14.2pt;
+	font-size:9.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	color:black;
+	font-weight:bold;
+}
+
+p.WD_ListUnorderedSub {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:68.2pt;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_SubtitleCharGlossarytermCharGlossarydef {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Table {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_NormalNote {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-style:italic;
+}
+
+p.WD_NormalTip {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-style:italic;
+}
+
+p.WD_NormalCaution {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+p.WD_NormalBug {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_NormalAuthor {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	color:fuchsia;
+}
+
+p.WD_DefinitionText {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:32.05pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_DefinitionItem {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:14.2pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+p.WD_ListingPlain {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:Courier New;
+}
+
+span.WD_ListingPlain {
+	font-family:Courier New;
+}
+
+p.WD_ListingShaded {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	background:#F2F6FC;
+	font-size:10.0pt;
+	font-family:Courier New;
+}
+
+span.WD_Button {
+	border:solid #666666 1.0pt;
+	padding:0cm;
+	background:#EEEEEE;
+	font-weight:bold;
+}
+
+span.WD_Key {
+	color:white;
+	border:solid gray 1.0pt;
+	padding:0cm;
+	background:#404040;
+	font-weight:bold;
+}
+
+span.WD_Shade {
+	border:none;
+	background:#B2C8EA;
+}
+
+span.WD_UserDefined {
+	font-style:italic;
+}
+
+span.WD_UserInterfaceItem {
+	color:windowtext;
+	font-weight:bold;
+}
+
+span.WD_UserInterfaceText {
+	font-weight:bold;
+}
+
+span.WD_Code {
+	font-family:Courier New;
+}
+
+span.WD_Input {
+	font-family:Courier New;
+}
+
+p.WD_ListOrderedSub {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:68.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Default {
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Arial"   ,sans-serif;
+	color:black;
+}
+
+p.WD_Step1 {
+	margin-top:8.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:43.1pt;
+	margin-bottom:.0001pt;
+	line-height:13.0pt;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Times New Roman"   ,serif;
+	color:black;
+}
+
+p.WD_BulletLevel2 {
+	margin-top:8.0pt;
+	margin-right:14.0pt;
+	margin-bottom:0cm;
+	margin-left:54.0pt;
+	margin-bottom:.0001pt;
+	text-indent:-11.0pt;
+	line-height:13.0pt;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Times New Roman"   ,serif;
+	color:black;
+}
+
+span.WD_BulletLevel2 {
+	color:black;
+}
+
+p.WD_StyleNormalNoteLeft0cm {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-style:italic;
+}
+
+p.WD_Printgraphic {
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_TableofContentsPageTitle {
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:14.2pt;
+	text-align:center;
+	font-size:16.0pt;
+	font-family:"Tahoma"   ,sans-serif;
+}
+
+p.WD_TitlePageTitle {
+	margin-top:150.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:14.2pt;
+	text-align:right;
+	border:none;
+	padding:0cm;
+	font-size:24.0pt;
+	font-family:"Tahoma"   ,sans-serif;
+}
+
+p.WD_Glossarydef {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_BodyTextFirstIndent {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_BodyTextFirstIndent2 {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_Closing {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_Date {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_DocumentMap {
+	font-family:"Tahoma"   ,sans-serif;
+}
+
+span.WD_EmailSignature {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_EndnoteText {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_HTMLAddress {
+	font-family:"Verdana"   ,sans-serif;
+	font-style:italic;
+}
+
+span.WD_HTMLPreformatted {
+	font-family:Consolas;
+}
+
+span.WD_IntenseQuote {
+	font-family:"Verdana"   ,sans-serif;
+	color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;
+}
+
+span.WD_MacroText {
+	font-family:Consolas;
+}
+
+span.WD_MessageHeader {
+	font-family:"Cambria"   ,serif;
+	background:#CCCCCC;
+}
+
+span.WD_NoteHeading {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_PlainText {
+	font-family:Consolas;
+}
+
+span.WD_Quote {
+	font-family:"Verdana"   ,sans-serif;
+	color:black;
+	font-style:italic;
+}
+
+span.WD_Salutation {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+span.WD_Signature {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Warningicons {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	text-align:center;
+	background:#FBD4B4;
+	border:none;
+	padding:0cm;
+	font-size:18.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+p.WD_Warningtext {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	text-align:center;
+	background:#FBD4B4;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+span.WD_Informationtext {
+	font-weight:bold;
+}
+
+p.WD_Párrafo4 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:18.0pt;
+	text-align:justify;
+	text-indent:-18.0pt;
+	font-size:10.0pt;
+	font-family:"TheSansCorrespondence"   ,serif;
+}
+
+p.WD_wdcommenttext {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:9.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_TableHeading {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+span.WD_InternetLink {
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;
+}
+
+span.WD_VisitedInternetLink {
+	color:maroon;
+	text-decoration:underline;
+	text-underline:single;
+}
+
+p.WD_Heading {
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:14.0pt;
+	font-family:"Liberation Sans"   ,sans-serif;
+}
+
+p.WD_TextBody {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	line-height:120%;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Index {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_NoList1 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	background:white;
+	font-size:11.0pt;
+	font-family:"Times New Roman"   ,serif;
+}
+
+p.WD_Contents1 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:12.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Contents2 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:11.9pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Contents3 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:20.15pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Contents4 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Contents5 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:48.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Contents6 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:60.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Contents7 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:72.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Contents8 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:84.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_Contents9 {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:96.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri"   ,sans-serif;
+}
+
+p.WD_TextBodyIndent {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:70.9pt;
+	font-size:11.5pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ComplimentaryClose {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_TableContents {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_Quotations {
+	margin-top:0cm;
+	margin-right:1.0cm;
+	margin-bottom:14.15pt;
+	margin-left:1.0cm;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_ContentsHeading {
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.2pt;
+	font-size:16.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+p.WD_NormalTitle {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+	font-style:italic;
+}
+
+p.WD_NormalWarning {
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:14.2pt;
+	text-align:center;
+	line-height:115%;
+	background:#FBD4B4;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Verdana"   ,sans-serif;
+	font-weight:bold;
+}
+
+span.WD_NoSpacing {
+	font-family:"Verdana"   ,sans-serif;
+}
+
+p.WD_StyleListContinue2Segment1412ptCustomColorRGB231743 {
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:1.0cm;
+	font-size:14.0pt;
+	font-family:Segment14;
+	color:#E74A03;
+}
+
+span.WD_Ins {
+	text-decoration:underline;
+	text-underline:single;
+	color:teal;
+}
+
+span.WD_Del {
+	text-decoration:line-through;
+	color:red;
+}
+
+OL {
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+UL {
+	margin-top:0px;
+	margin-bottom:0px;
+}
+

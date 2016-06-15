@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Roll Gap","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Gap.htm"},{"type":"item","name":"Outer Roll Condition","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Outer_Roll_Condition.htm"},{"type":"item","name":"Roll Bend - Optional","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Bend_-_Optional.htm"},{"type":"book","name":"Outer Roll Alignment","key":"toc19","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Outer_Roll_Alignment.htm"},{"type":"item","name":"Roll Rotation - Optional","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Roll_Rotation_-_Optional.htm"},{"type":"item","name":"Water Spray - Optional","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Water_Spray_-_Optional.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

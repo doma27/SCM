@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="OriginalFile" content="SCMMASTERManual-English2_3._RH.docx" />
+ <meta name="generator" content="Adobe RoboHelp 2015" />
+<title>WIFI Hardware</title>
+<link rel="stylesheet" href="SCMMASTERManual-English2_3._RH.css" type="text/css" />
+<link rel="stylesheet" href="../../CCAR.css" type="text/css" />
+ <link rel="StyleSheet" href="../../CCAR.css" type="text/css" />
+<style type="text/css">
+<!--
+A:visited { color:#0000ff; }
+A:link { color:#000080; }
+-->
+</style>
+<script type="text/javascript" language="JavaScript">
+//<![CDATA[
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+onerror = null; 
+//]]>
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute;
+left:0px;
+top:0px;
+z-index:4;
+visibility:hidden; }
+p.WebHelpNavBar { text-align:right; }
+-->
+</style>
+
+<script type="text/javascript" src="../../template/scripts/rh.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/common.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/topic.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/constants.js"></script>
+<script type="text/javascript" src="../../template/scripts/utils.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhutils.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhlang.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhver.js"></script>
+<script type="text/javascript" src="../../template/scripts/settings.js"></script>
+<script type="text/javascript" src="../../template/scripts/XmlJsReader.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadparentdata.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadscreen.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadprojdata.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhtopic.js"></script>
+ <link rel="stylesheet" type="text/css" href="../../template/styles/topic.min.css">
+<script type="text/javascript" >
+gRootRelPath = "../..";
+gCommonRootRelPath = "../..";
+gTopicId = "3.2.0_1";
+</script>
+ <meta name="topic-breadcrumbs" content="3. DETAILED CASTER MEASUREMENT SEQUENCE > Wireless Data Transfer and Calibration (Wi-Fi) – Optional" />
+</head>
+<body>
+<script type="text/javascript" src="../../ehlpdhtm.js"></script>
+
+
+<p class="WD_Heading3">WIFI&#160;Hardware</p>
+<p class="WD_Normal">&#160;</p>
+<table style="border: none;" cellspacing="0">
+<tr>
+<td style="vertical-align: top; padding: 0cm 5.4pt 0cm 5.4pt; padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;" width="130">
+<p class="WD_Normal"><img src="image265.jpg" alt="" border="0" style="width:100%; max-width:158px" /></p>
+<p class="WD_Caption"><a name="Figure_9_MOXA_Router" id="Figure_9_MOXA_Router">Figure</a> 9: MOXA Router</p>
+<p class="WD_Normal">&#160;</p>
+</td>
+<td style="vertical-align: top; padding: 0cm 5.4pt 0cm 5.4pt; padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;" width="518">
+<p class="WD_Heading4">WIRELESS ACCESS POINT (ROUTER)</p>
+<p class="WD_Normal">&#160;</p>
+<p class="WD_Normal">This is the MOXA<a name="IX_MOXA" id="IX_MOXA"></a>&#160;router (access point).</p>
+<p class="WD_Normal">It is typically installed at a half-way point between the SCM&#160;and the most common point for data download, for example on the casting floor or main control room area.</p>
+<p class="WD_Normal">The unit receives the wireless transmission data from the MOXA<a name="IX_MOXA_1" id="IX_MOXA_1"></a>&#160;NPort and relays it directly to the Laptop Computer.</p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 0cm 5.4pt 0cm 5.4pt; padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;" width="130">
+<p class="WD_Normal"><img src="image267.jpg" alt="" border="0" style="width:100%; max-width:137px" /></p>
+<p class="WD_Caption"><a name="Figure_10_MOXA_Nport_Unit" id="Figure_10_MOXA_Nport_Unit">Figure</a> 10: MOXA Nport Unit</p>
+<p class="WD_Normal">&#160;</p>
+</td>
+<td style="vertical-align: top; padding: 0cm 5.4pt 0cm 5.4pt; padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;" width="518">
+<p class="WD_Normal">WIRELESS SERIAL DEVICE SERVER (NPort)</p>
+<p class="WD_Normal">This MOXA<a name="IX_MOXA_2" id="IX_MOXA_2"></a>&#160;NPort unit is installed in the SCM&#160;in the Wi-Fi<a name="IX_WIFI_3" id="IX_WIFI_3"></a>&#160;Enclosure.</p>
+<p class="WD_Normal">The unit converts the RS-232 signal coming into the serial port from the Single Board<a name="IX_Board_1" id="IX_Board_1"></a> Computer (<a href="javascript:TextPopup(this)" id="HotSpot37508" class="glossterm">SBC</a><script type="text/javascript">//<![CDATA[
+TextPopupInit('HotSpot37508', 'POPUP37508');
+//]]></script><span class="glosstext" id="POPUP37508" style="display: none;"> Single-board computer</span>)<a name="IX_SBC_7" id="IX_SBC_7"></a>&#160;into a wireless transmission which is sent to the MOXA<a name="IX_MOXA_3" id="IX_MOXA_3"></a>&#160;Router (above).</p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 0cm 5.4pt 0cm 5.4pt; padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;" width="130">
+<p class="WD_Normal"><img src="image269.jpg" alt="" border="0" style="width:100%; max-width:184px" /></p>
+<p class="WD_Caption"><a name="Figure_11_Wi_Fi_Aerial" id="Figure_11_Wi_Fi_Aerial">Figure</a> 11: Wi-Fi Aerial</p>
+<p class="WD_Normal">&#160;</p>
+</td>
+<td style="vertical-align: top; padding: 0cm 5.4pt 0cm 5.4pt; padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;" width="518">
+<p class="WD_Heading4"><a name="WIFI_AERIAL" id="WIFI_AERIAL">WIFI</a>&#160;AERIAL</p>
+<p class="WD_Normal">The Wi-Fi<a name="IX_WIFI_5" id="IX_WIFI_5"></a>&#160;aerial is mounted inside an acetyl resin block which is potted and then mounted on top of the SCM.</p>
+<p class="WD_Normal">This aerial is then wired directly into the Wi-Fi<a name="IX_WIFI_6" id="IX_WIFI_6"></a>&#160;enclosure.</p>
+</td>
+</tr>
+</table>
+<p class="WD_Normal">&#160;</p>
+</body>
+</html>

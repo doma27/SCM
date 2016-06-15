@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="OriginalFile" content="SCMMASTERManual-English2_3._RH.docx" />
+ <meta name="generator" content="Adobe RoboHelp 2015" />
+<title>How the SCM Data Logger Receives Sensor Information</title>
+<link rel="stylesheet" href="SCMMASTERManual-English2_3._RH.css" type="text/css" />
+<link rel="stylesheet" href="../../CCAR.css" type="text/css" />
+ <link rel="StyleSheet" href="../../CCAR.css" type="text/css" />
+<style type="text/css">
+<!--
+A:visited { color:#0000ff; }
+A:link { color:#000080; }
+-->
+</style>
+<script type="text/javascript" language="JavaScript">
+//<![CDATA[
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+onerror = null; 
+//]]>
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute;
+left:0px;
+top:0px;
+z-index:4;
+visibility:hidden; }
+p.WebHelpNavBar { text-align:right; }
+-->
+</style>
+
+<script type="text/javascript" src="../../template/scripts/rh.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/common.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/topic.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/constants.js"></script>
+<script type="text/javascript" src="../../template/scripts/utils.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhutils.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhlang.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhver.js"></script>
+<script type="text/javascript" src="../../template/scripts/settings.js"></script>
+<script type="text/javascript" src="../../template/scripts/XmlJsReader.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadparentdata.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadscreen.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadprojdata.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhtopic.js"></script>
+ <link rel="stylesheet" type="text/css" href="../../template/styles/topic.min.css">
+<script type="text/javascript" >
+gRootRelPath = "../..";
+gCommonRootRelPath = "../..";
+gTopicId = "2.1.0_1";
+</script>
+ <meta name="topic-breadcrumbs" content="2. SCM ELECTRICAL OPERATION > System Overview" />
+</head>
+<body>
+<script type="text/javascript" src="../../ehlpdhtm.js"></script>
+
+
+<p class="WD_Heading3">How the SCM&#160;Data Logger&#160;Receives Sensor Information</p>
+<p class="WD_Normal">The analogue output signals from the Gap, <a href="javascript:TextPopup(this)" id="HotSpot33798" class="glossterm">Inclinometer</a><script type="text/javascript">//<![CDATA[
+TextPopupInit('HotSpot33798', 'POPUP33798');
+//]]></script><span class="glosstext" id="POPUP33798" style="display: none;"> Devices that measure angles relative to the horizontal</span><a name="IX_Inclinometer" id="IX_Inclinometer"></a>&#160;and Water Spray sensors are filtered and processed by the single board computer before being processed by the internal analogue to digital (A to D) converters. The A to D converters convert the 0 to 10 V DC analogue signal outputs from the signal conditioning units to a 16-bit digital signal represented by a value from 0 to 32000.</p>
+<p class="WD_Normal"><img src="image066.jpg" alt="" border="0" style="width:100%; max-width:341px" /></p>
+<p class="WD_Normal">The digital output signals from the roll rotation and roll detection sensors are connected to the data logger digital input channels via the M8<a name="IX_M8_3" id="IX_M8_3"></a>&#160;distribution blocks. The digital inputs to the single board computer (SBC<a name="IX_SBC_5" id="IX_SBC_5"></a>) are 0 or 5 volt dc levels that represent either logic 0 or logic 1 data.</p>
+<p class="WD_Normal">The SBC<a name="IX_SBC_6" id="IX_SBC_6"></a>&#160;constantly reads the outputs from the A to D converters and digital input channels. The received information is then processed and written to the SDHC<a name="IX_SDHC_1" id="IX_SDHC_1"></a>&#160;memory card which can then be downloaded to the laptop computer for analysis.</p>
+</body>
+</html>

@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Available Measurements","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Available_Measurements.htm"},{"type":"item","name":"Print Selection Button","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Print_Selection_Button.htm"},{"type":"item","name":"Threshold Adjustment Button","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Threshold_Adjustment_Button.htm"},{"type":"item","name":"Over Threshold Summary Button","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Over_Threshold_Summary_Button.htm"},{"type":"item","name":"Description of Result Displays","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Description_of_Result_Displays.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

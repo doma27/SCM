@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Routine Hydraulic System Checks","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Routine_Hydraulic_System_Checks.htm"},{"type":"item","name":"Bleeding the Hydraulic System","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Bleeding_the_Hydraulic_System.htm"},{"type":"item","name":"Trolley Mounted Hydraulic Power Unit (HPU)","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Trolley_Mounted_Hydraulic_Power_Unit_HPU.htm"},{"type":"item","name":"HPU Inspection and Servicing","url":"SCM_Master/SCMMASTERManual-English2_0._RH/HPU_Inspection_and_Servicing.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

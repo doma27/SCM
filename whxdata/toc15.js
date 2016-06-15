@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc13.js\"  name=\"Wireless Data Transfer and Calibration (Wi-Fi) – Optional\" url=\"SCM_Master/SCMMASTERManual-English2_0._RH/Wireless_Data_Transfer_and_Calibration_Wi-Fi_–_Optional.htm\"><item name=\"WIFI Hardware\" url=\"SCM_Master/SCMMASTERManual-English2_0._RH/WIFI_Hardware.htm\" /></data>";

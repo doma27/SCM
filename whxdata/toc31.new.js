@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Hardware Used","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Hardware_Used.htm"},{"type":"book","name":"Data Logger Enclosure","key":"toc32","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Data_Logger_Enclosure.htm"},{"type":"book","name":"Batteries","key":"toc33","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Batteries1.htm"},{"type":"item","name":"Interface Units","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Interface_Units.htm"},{"type":"book","name":"Remote Control (Infrared Transmitter)","key":"toc34","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Remote_Control_Infrared_Transmitter.htm"},{"type":"item","name":"Changing the SCM Software – SDHC Memory Card","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Changing_the_SCM_Software_–_SDHC_Memory_Card.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

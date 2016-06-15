@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"64-Channel Data Logger Printed Circuit Board (PCB)","url":"SCM_Master/SCMMASTERManual-English2_0._RH/64-Channel_Data_Logger_Printed_Circuit_Board_PCB.htm"},{"type":"item","name":"Remote DC-DC Converter Card","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Remote_DC-DC_Converter_Card.htm"},{"type":"item","name":"Distribution Blocks","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Distribution_Blocks.htm"},{"type":"item","name":"Jumper Cables","url":"SCM_Master/SCMMASTERManual-English2_0._RH/Jumper_Cables.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();
