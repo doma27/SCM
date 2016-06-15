@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta name="generator" content="Adobe RoboHelp 2015" />
+<meta name="OriginalFile" content="SCMMASTERManual-English2_3._RH.docx" />
+<title>64-Channel Data Logger Printed Circuit Board (PCB)</title>
+<link rel="stylesheet" href="SCMMASTERManual-English2_3._RH.css" type="text/css" />
+<link rel="stylesheet" href="../../CCAR.css" type="text/css" />
+ <link rel="StyleSheet" href="../../CCAR.css" type="text/css" />
+<script type="text/javascript" language="JavaScript">
+//<![CDATA[
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+onerror = null; 
+//]]>
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute;
+left:0px;
+top:0px;
+z-index:4;
+visibility:hidden; }
+p.WebHelpNavBar { text-align:right; }
+-->
+</style>
+
+<script type="text/javascript" src="../../template/scripts/rh.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/common.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/topic.min.js"></script>
+<script type="text/javascript" src="../../template/scripts/constants.js"></script>
+<script type="text/javascript" src="../../template/scripts/utils.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhutils.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhlang.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhver.js"></script>
+<script type="text/javascript" src="../../template/scripts/settings.js"></script>
+<script type="text/javascript" src="../../template/scripts/XmlJsReader.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadparentdata.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadscreen.js"></script>
+<script type="text/javascript" src="../../template/scripts/loadprojdata.js"></script>
+<script type="text/javascript" src="../../template/scripts/mhtopic.js"></script>
+ <link rel="stylesheet" type="text/css" href="../../template/styles/topic.min.css">
+<script type="text/javascript" >
+gRootRelPath = "../..";
+gCommonRootRelPath = "../..";
+gTopicId = "8.1.0_1";
+</script>
+ <meta name="topic-breadcrumbs" content="SYSTEM ELECTRONICS > Data Logger Enclosure" />
+</head>
+<body link="navy" vlink="blue">
+<script type="text/javascript" src="../../ehlpdhtm.js"></script>
+
+<p class="WD_Heading3">64-Channel Data Logger Printed Circuit Board (PCB)</p>
+<p class="WD_Normal">This card executes the computer program and controls all aspect of communications, data storage, Infra-red reception and decoding.<br />
+<img border="0" src="image447.jpg" alt="" style="width:100%; max-width:273px" /></p>
+<p class="WD_Caption"><a name="Figure_32_64_bit_Data" id="Figure_32_64_bit_Data">Figure</a> 32: 64-bit Data Logger &#160;PCB</p>
+<p class="WD_Normal">What this PCB<a name="IX_PCB_1" id="IX_PCB_1"></a>&#160;does:</p>
+<ul type="square">
+<li>
+<p class="UL" style=" line-height:115%;">Display transmission and control.</p>
+</li>
+<li>
+<p class="UL" style=" line-height:115%;">Data Communication<a name="IX_Data_Communication" id="IX_Data_Communication"></a>&#160;interfacing.</p>
+</li>
+<li>
+<p class="UL" style=" line-height:115%;">Interfacing of the tilt switches for the automatic power on and stop record functions.</p>
+</li>
+<li>
+<p class="UL" style=" line-height:115%;">A four hour hardware power down function to help preserve battery life.</p>
+</li>
+<li>
+<p class="UL" style=" line-height:115%;">Temperature and battery voltage monitoring and low voltage shut down.</p>
+</li>
+<li>
+<p class="UL" style=" line-height:115%;">Receiving the analogue signals from the gap and inclinometer sensors and performs a 16-bit conversion into digital signals.</p>
+</li>
+<li>
+<p class="UL" style=" line-height:115%;">This card also receive direct digital inputs</p>
+</li>
+<li>
+<p class="UL" style=" line-height:115%;">The unit provides the Roll Rotation<a name="IX_Roll_Rotation_10" id="IX_Roll_Rotation_10"></a>&#160;and Roll Detection<a name="IX_Roll_Detection" id="IX_Roll_Detection"></a>&#160;sensors with either a +12V or +5V supply depending on the type of sensor used. The unit accepts the output from the Roll Rotation and Roll Detection sensors and provides buffering between the sensor outputs and the Data Logger<a name="IX_Data_Logger_1" id="IX_Data_Logger_1"></a>&#160;digital inputs. Providing the data logger digital inputs with either a 0V or 5V discrete voltage corresponding to a logic level 0 or logic level 1.</p>
+</li>
+<li>
+<p class="UL" style=" line-height:115%;">The unit provides the sensors with a +12V supply and accepts the output from the water spray accelerometer sensors. This signal is then filtered and conditioned to give a 0V to 10V analogue signal</p>
+</li>
+</ul>
+<p class="WD_Normal">On board there is memory storage in the form of a removable SDHC<a name="IX_SDHC_4" id="IX_SDHC_4"></a>&#160;card which stores the measurement data, calibration data and customer specific software.</p>
+<p class="WD_Normal">The single board computer provides the real time clock function which is backed up by its own separate miniature battery which is the only serviceable component on the board.</p>
+<p class="WD_Normal">Located in the corner of the card is a toggle switch which can be used for forcing the power supply card to boot in the event that there is a problem with the infra-red transmitter or receiver components.</p>
+<p class="WD_Normal">&#160;</p>
+<div style=" border:solid windowtext 1.5pt; padding:1.0pt 4.0pt 1.0pt 4.0pt; background:#F2DBDB; margin-left:14.2pt; margin-right:0cm;">
+<p class="WD_Normal" align="center" style=" margin-left:0cm; text-align:center; background:#F2DBDB; border:none; padding:0cm;"><b><span style=" font-size:24.0pt; font-family:Webdings;">i</span></b><b><span style=" font-size:24.0pt;"><br /></span></b><b><span style=" font-size:12.0pt;">Important Information</span></b></p>
+</div>
+<p class="WD_NormalNote">There are no serviceable parts on the data logger card or the remote DC<a name="IX_DC_3" id="IX_DC_3"></a>&#160;converter card.</p>
+<p class="WD_Normal">&#160;</p>
+<p class="WD_Normal">&#160;</p>
+</body>
+</html>
