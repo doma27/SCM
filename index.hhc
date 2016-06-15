@@ -747,10 +747,6 @@
       <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_-_Termination_Headers.htm">
     </object>
     <li><object type="text/sitemap">
-      <param name="Name" value="64ch Single Board Computer – Test Point Table">
-      <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_–_Test_Point_Table.htm">
-    </object>
-    <li><object type="text/sitemap">
       <param name="Name" value="64ch Single Board Computer - LED Table">
       <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_-_LED_Table.htm">
     </object>

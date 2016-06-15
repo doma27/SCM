@@ -18,8 +18,6 @@
     <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_-_Fuse_Table.htm">
     <param name="Name" value="64ch Single Board Computer - Termination Headers">
     <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_-_Termination_Headers.htm">
-    <param name="Name" value="64ch Single Board Computer – Test Point Table">
-    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_–_Test_Point_Table.htm">
     <param name="Name" value="64ch Single Board Computer - LED Table">
     <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_-_LED_Table.htm">
   </object>
@@ -2246,11 +2244,6 @@
     <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Terminology.htm">
   </object>
   <li><object type="text/sitemap">
-    <param name="Name" value="Test Point Table">
-    <param name="Name" value="64ch Single Board Computer – Test Point Table">
-    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_–_Test_Point_Table.htm">
-  </object>
-  <li><object type="text/sitemap">
     <param name="Name" value="Threshold Adjustment Button">
     <param name="Name" value="Threshold Adjustment Button">
     <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Threshold_Adjustment_Button.htm">
@@ -2290,13 +2283,6 @@
     <param name="Name" value="Torque Settings">
     <param name="Name" value="Torque Settings">
     <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/Torque_Settings.htm">
-  </object>
-  <li><object type="text/sitemap">
-    <param name="Name" value="TP Number">
-    <param name="Name" value="64ch Single Board Computer – Test Point Table#IX_TP_Number">
-    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_–_Test_Point_Table.htm#IX_TP_Number">
-    <param name="Name" value="64ch Single Board Computer – Test Point Table#IX_TP_Number_1">
-    <param name="Local" value="SCM_Master/SCMMASTERManual-English2_0._RH/64ch_Single_Board_Computer_–_Test_Point_Table.htm#IX_TP_Number_1">
   </object>
   <li><object type="text/sitemap">
     <param name="Name" value="Trace Viewer">

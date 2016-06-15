@@ -5,7 +5,7 @@ model = rh.model;
 
 rh.consts('DEFAULT_TOPIC', encodeURI("#SCM_Master/SCMMASTERManual-English2_0._RH/Caster_Parameters_Measured_by_SCM_Sensors.htm".substring(1)));
 rh.consts('START_FILEPATH', encodeURI('index.html'));
-rh.consts('HELP_ID', '0DC4054A-61C9-4A12-A1B1-82436767183D' || 'preview');
+rh.consts('HELP_ID', 'BDE7F3AC-2AB1-44F1-B6B5-060FA89A2A8B' || 'preview');
 rh.consts('LNG_STOP_WORDS', ["a", "about", "after", "against", "all", "also", "among", "an", "and", "are", "as", "at", "be", "became", "because", "been", "between", "but", "by", "can", "come", "do", "during", "each", "early", "for", "form", "found", "from", "had", "has", "have", "he", "her", "his", "however", "in", "include", "into", "is", "it", "its", "late", "later", "made", "many", "may", "me", "med", "more", "most", "near", "no", "non", "not", "of", "on", "only", "or", "other", "over", "several", "she", "some", "such", "than", "that", "the", "their", "then", "there", "these", "they", "this", "through", "to", "under", "until", "use", "was", "we", "were", "when", "where", "which", "who", "with", "you"]);
 rh.consts('LNG_SUBSTR_SEARCH', 0);
 
